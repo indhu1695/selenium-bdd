@@ -1,0 +1,1 @@
+thanks_successMessage_lbl: '//*[contains(text(), "Hi") and contains(text(), "your data has been Submitted Successfully, We will contact you Soon!")]'

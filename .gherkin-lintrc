@@ -1,0 +1,14 @@
+{
+  "indentation" : [
+    "on", {
+      "Feature": 0,
+      "Scenario": 2,
+      "scenario tag": 2,
+      "Step": 4,
+      "Background": 2
+    }
+  ],
+  "new-line-at-eof": ["on", "yes"],
+  "allowed-tags": ["on", {"tags": ["@Sanity", "@dataBase-UI", "@ui-test", "@dataBase-insertDetails"]}],
+  "max-scenarios-per-file": ["on",{"maxScenarios": 5}]
+}
